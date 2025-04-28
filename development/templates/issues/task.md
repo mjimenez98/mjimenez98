@@ -1,10 +1,9 @@
 ---
 name: Task
-about: Unit of work to address
-title: ""
-labels: ''
+about: Small, actionable piece of work. A technical or design step to complete a story.
+title: "[Task] "
+labels: ["task"]
 assignees: ''
-
 ---
 
 ### What
