@@ -2,6 +2,7 @@
 name: Bug report
 about: Create a report to help us improve.
 title: "[Bug] "
+type: Task
 labels: ["bug"]
 assignees: ''
 ---
@@ -46,5 +47,3 @@ assignees: ''
 
 ### Additional context
 <!-- Add any other context about the problem here. -->
-
-

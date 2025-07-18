@@ -2,6 +2,7 @@
 name: Epic
 about: Large project or goal that can be broken into many batches.
 title: "[Epic] "
+type: Epic
 labels: ["epic"]
 assignees: ''
 ---
