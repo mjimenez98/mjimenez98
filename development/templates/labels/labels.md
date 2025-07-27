@@ -1,9 +1,9 @@
 # Labels
 
-List of labels with their descriptions:
+List of labels with their colors and descriptions:
 
-| Label          | Description |
-|----------------|-------------|
-| bug            | Something is not working |
-| documentation  | Missing, outdated, or unclear documentation |
-| tech debt      | Needs refactoring or improvement |
+| Label          | Color   | Description  |
+|----------------|-------- | -------------|
+| bug            | #d73a4a | Something is not working |
+| documentation  | #0075ca | Missing, outdated, or unclear documentation |
+| tech debt      | #fbca04 | Needs refactoring or improvement |
