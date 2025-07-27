@@ -1,6 +1,6 @@
 ---
 name: Task
-about: Small, actionable piece of work. A technical or design step to complete a story.
+about: Small, actionable piece of work.
 title: "[Task] "
 type: Task
 labels: ["task"]
