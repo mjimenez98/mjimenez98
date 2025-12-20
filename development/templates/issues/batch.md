@@ -2,6 +2,7 @@
 name: Batch
 about: Groups related tasks that are better tackled together.
 title: "[Batch] "
+type: Batch
 labels: ["batch"]
 assignees: ''
 ---
